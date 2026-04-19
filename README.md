@@ -42,12 +42,16 @@ Firebase Analytics is operated by Google and is subject to [Google's Privacy Pol
 
 ---
 
-## Subscription Management (RevenueCat)
-We use RevenueCat to manage subscriptions and in-app purchases. When you subscribe or restore a purchase, RevenueCat processes:
+## Purchases and Subscriptions (RevenueCat)
+As of version 1.5, Jotter is sold as a one-time paid download through the Apple App Store. Apple handles the transaction; we do not receive or store your payment details.
 
-- Your anonymous App Store transaction identifier
-- Subscription status (active, expired, or cancelled)
-- Entitlement information (which premium features are unlocked)
+We use RevenueCat to manage purchase and subscription state on your device. When the App launches, RevenueCat is assigned an anonymous installation identifier and may process:
+
+- Your anonymous App Store transaction identifier (once you have made a purchase)
+- Purchase or subscription status (active, expired, or cancelled)
+- Entitlement information (which features are unlocked)
+
+Customers who purchased a Jotter subscription before version 1.5 continue to have their subscriptions managed through the same system. Those subscriptions renew and cancel through your Apple ID as normal.
 
 RevenueCat does not receive your name, email, or Apple ID. For more information, see [RevenueCat's Privacy Policy](https://www.revenuecat.com/privacy/).
 
@@ -105,7 +109,7 @@ The app uses the following third-party services, each with their own privacy pol
 |---------|---------|---------------|
 | Apple iCloud (CloudKit) | Cross-device data sync | [Apple Privacy](https://www.apple.com/legal/privacy/) |
 | Google Firebase Analytics | App usage analytics | [Google Privacy](https://policies.google.com/privacy) |
-| RevenueCat | Subscription management | [RevenueCat Privacy](https://www.revenuecat.com/privacy/) |
+| RevenueCat | Purchase and subscription management | [RevenueCat Privacy](https://www.revenuecat.com/privacy/) |
 
 ---
 
