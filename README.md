@@ -1,16 +1,14 @@
 # Privacy Policy
+**Last updated: 19 April 2026**
 
-**Last updated: 19 March 2026**
+Jotter ("we," "our," or "us") is a personal finance tracking app developed by The Cosy People. This Privacy Policy explains what information the app collects, how it is used, and your choices regarding your data.
 
-Every Bit Counts ("we," "our," or "us") is a personal finance tracking app developed by The Cosy People. This Privacy Policy explains what information the app collects, how it is used, and your choices regarding your data.
-
-By using Every Bit Counts, you agree to the practices described in this policy.
+By using Jotter, you agree to the practices described in this policy.
 
 ---
 
 ## What Data Stays on Your Device
-
-The core of Every Bit Counts is designed around on-device storage. The following data is stored locally and is not sent to our servers:
+The core of Jotter is designed around on-device storage. The following data is stored locally and is not sent to our servers:
 
 - **Expense records** — amounts, names, categories, dates, and need/want classification
 - **Recurring expense schedules** — frequency, amounts, and due dates
@@ -24,7 +22,6 @@ This data is stored using Apple's Core Data framework on your device.
 ---
 
 ## iCloud Sync
-
 If you are signed in to iCloud on your device, your expense data syncs automatically across your Apple devices via Apple's CloudKit service. This sync is managed entirely by Apple and is subject to [Apple's Privacy Policy](https://www.apple.com/legal/privacy/). We do not operate any servers that store your expense data.
 
 You can disable iCloud sync for the app in your device's Settings > Apple Account > iCloud.
@@ -32,7 +29,6 @@ You can disable iCloud sync for the app in your device's Settings > Apple Accoun
 ---
 
 ## Analytics (Firebase Analytics)
-
 We use Google Firebase Analytics to understand how the app is used and to improve the experience. Firebase collects:
 
 - **Usage events** — which features you use (e.g. adding an expense, viewing charts, applying filters), but not the specific content of your entries
@@ -47,7 +43,6 @@ Firebase Analytics is operated by Google and is subject to [Google's Privacy Pol
 ---
 
 ## Subscription Management (RevenueCat)
-
 We use RevenueCat to manage subscriptions and in-app purchases. When you subscribe or restore a purchase, RevenueCat processes:
 
 - Your anonymous App Store transaction identifier
@@ -59,19 +54,16 @@ RevenueCat does not receive your name, email, or Apple ID. For more information,
 ---
 
 ## Widgets
-
-Every Bit Counts includes Home Screen widgets that display your spending summaries. Widget data (today's spending, budget progress, weekly totals) is shared between the main app and the widget extension via a shared app group container on your device. This data does not leave your device.
+Jotter includes Home Screen widgets that display your spending summaries. Widget data (today's spending, budget progress, weekly totals) is shared between the main app and the widget extension via a shared app group container on your device. This data does not leave your device.
 
 ---
 
 ## Push Notifications
-
 If you grant notification permission, the app schedules local notifications on your device (e.g. spending reminders). Notification content is generated locally and is not sent through any external server.
 
 ---
 
 ## Data We Do Not Collect
-
 We do not collect, store, or have access to:
 
 - Your name, email address, or contact information (unless you email us directly for support)
@@ -83,13 +75,11 @@ We do not collect, store, or have access to:
 ---
 
 ## Children's Privacy
-
-Every Bit Counts is not directed at children under the age of 13. We do not knowingly collect personal information from children. If you believe a child has provided us with personal data, please contact us and we will promptly delete it.
+Jotter is not directed at children under the age of 13. We do not knowingly collect personal information from children. If you believe a child has provided us with personal data, please contact us and we will promptly delete it.
 
 ---
 
 ## Data Retention
-
 Your expense data is stored on your device and in your personal iCloud account. We do not maintain copies of your data on our servers.
 
 Analytics data collected by Firebase is retained according to [Google's data retention policies](https://firebase.google.com/support/privacy). You can reset your analytics identifier at any time by reinstalling the app.
@@ -97,7 +87,6 @@ Analytics data collected by Firebase is retained according to [Google's data ret
 ---
 
 ## Your Rights
-
 Depending on your jurisdiction, you may have the right to:
 
 - **Access** the personal data we hold about you
@@ -110,7 +99,6 @@ If you are in the European Economic Area (EEA), you have rights under the Genera
 ---
 
 ## Third-Party Services
-
 The app uses the following third-party services, each with their own privacy policies:
 
 | Service | Purpose | Privacy Policy |
@@ -122,17 +110,15 @@ The app uses the following third-party services, each with their own privacy pol
 ---
 
 ## Changes to This Policy
-
 We may update this Privacy Policy from time to time. If we make material changes, we will notify you through the app or by updating the "Last updated" date at the top of this page. Your continued use of the app after changes are posted constitutes acceptance of the updated policy.
 
 ---
 
 ## Contact Us
-
 If you have any questions about this Privacy Policy or your data, please contact us:
 
 **Email:** hello@thecosypeople.com.au
 
 ---
 
-*This policy applies to the Every Bit Counts iOS app and its associated widget extensions.*
+*This policy applies to the Jotter iOS app and its associated widget extensions.*
