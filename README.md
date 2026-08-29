@@ -1,5 +1,5 @@
 # Privacy Policy
-**Last updated: 19 April 2026**
+**Last updated: 29 August 2026**
 
 Jotter ("we," "our," or "us") is a personal finance tracking app developed by The Cosy People. This Privacy Policy explains what information the app collects, how it is used, and your choices regarding your data.
 
@@ -10,12 +10,12 @@ By using Jotter, you agree to the practices described in this policy.
 ## What Data Stays on Your Device
 The core of Jotter is designed around on-device storage. The following data is stored locally and is not sent to our servers:
 
-- **Expense records** — amounts, names, categories, dates, and need/want classification
-- **Recurring expense schedules** — frequency, amounts, and due dates
-- **Custom categories** — icons, names, and colours you create
-- **Profile information** — your display name and profile photo
-- **Savings goals and budgets** — target amounts and progress
-- **App preferences** — currency, language, theme colour, notification settings, and haptic feedback preferences
+- **Expense records**: amounts, names, categories, dates, and need/want classification
+- **Recurring expense schedules**: frequency, amounts, and due dates
+- **Custom categories**: icons, names, and colours you create
+- **Profile information**: your display name and profile photo
+- **Savings goals and budgets**: target amounts and progress
+- **App preferences**: currency, language, theme colour, notification settings, and haptic feedback preferences
 
 This data is stored using Apple's Core Data framework on your device.
 
@@ -31,10 +31,10 @@ You can disable iCloud sync for the app in your device's Settings > Apple Accoun
 ## Analytics (Firebase Analytics)
 We use Google Firebase Analytics to understand how the app is used and to improve the experience. Firebase collects:
 
-- **Usage events** — which features you use (e.g. adding an expense, viewing charts, applying filters), but not the specific content of your entries
-- **Aggregated financial data** — expense amounts are included in analytics events to help us understand spending patterns at a population level (e.g. average expense size). This data is not linked to your identity.
-- **Device information** — device model, operating system version, and app version
-- **Performance data** — crash reports and app responsiveness metrics
+- **Usage events**: which features you use (e.g. adding an expense, viewing charts, applying filters), but not the specific content of your entries
+- **Aggregated financial data**: expense amounts are included in analytics events to help us understand spending patterns at a population level (e.g. average expense size). This data is not linked to your identity.
+- **Device information**: device model, operating system version, and app version
+- **Performance data**: crash reports and app responsiveness metrics
 
 Firebase Analytics is operated by Google and is subject to [Google's Privacy Policy](https://policies.google.com/privacy). Firebase assigns an anonymous installation identifier to your device; this is not linked to your name, email, or Apple ID.
 
@@ -43,15 +43,18 @@ Firebase Analytics is operated by Google and is subject to [Google's Privacy Pol
 ---
 
 ## Purchases and Subscriptions (RevenueCat)
-As of version 1.5, Jotter is sold as a one-time paid download through the Apple App Store. Apple handles the transaction; we do not receive or store your payment details.
+Jotter Pro is an auto-renewing subscription, offered as a monthly or an annual plan. Both plans begin with a 7-day free trial. Prices are shown in the app before you confirm and vary by region.
 
-We use RevenueCat to manage purchase and subscription state on your device. When the App launches, RevenueCat is assigned an anonymous installation identifier and may process:
+Payment is charged to your Apple ID when you confirm the purchase. Your free trial converts to a paid subscription when it ends, and each period renews automatically at the same price unless you cancel at least 24 hours before that period ends. You can view, change, or cancel your subscription at any time in Settings > Apple Account > Subscriptions on your device.
+
+**Apple handles the transaction. We never receive or store your card, bank, or payment details.**
+
+We use RevenueCat to manage subscription state on your device. When the app launches, RevenueCat is assigned an anonymous installation identifier and may process:
 
 - Your anonymous App Store transaction identifier (once you have made a purchase)
-- Purchase or subscription status (active, expired, or cancelled)
+- Subscription status (in trial, active, expired, or cancelled) and renewal dates
 - Entitlement information (which features are unlocked)
-
-Customers who purchased a Jotter subscription before version 1.5 continue to have their subscriptions managed through the same system. Those subscriptions renew and cancel through your Apple ID as normal.
+- Country, device type, and app version, so purchases can be validated and restored on your other devices
 
 RevenueCat does not receive your name, email, or Apple ID. For more information, see [RevenueCat's Privacy Policy](https://www.revenuecat.com/privacy/).
 
@@ -94,8 +97,8 @@ Analytics data collected by Firebase is retained according to [Google's data ret
 Depending on your jurisdiction, you may have the right to:
 
 - **Access** the personal data we hold about you
-- **Delete** your data — you can delete all app data from Settings > Data > Delete All Data at any time
-- **Opt out of analytics** — you can limit ad tracking and analytics collection in your device's Settings > Privacy & Security
+- **Delete** your data: you can delete all app data from Settings > Data > Delete All Data at any time
+- **Opt out of analytics**: you can limit ad tracking and analytics collection in your device's Settings > Privacy & Security
 - **Request information** about what data we process
 
 If you are in the European Economic Area (EEA), you have rights under the General Data Protection Regulation (GDPR), including the right to access, rectify, port, and erase your data. If you are a California resident, you have rights under the California Consumer Privacy Act (CCPA), including the right to know, delete, and opt out of the sale of personal information. **We do not sell your personal information.**
